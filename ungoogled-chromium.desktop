@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Ungoogled Chromium
+Categories=Network;
+Comment=A lightweight approach to removing Google web service dependency.
+Icon=/home/fanatyk/.local/app/appicons/chromium.png
+NoDisplay=false
+Exec=/home/fanatyk/.local/bin/ungoogled-chromium/chrome
+Terminal=false
+X-GNOME-UsesNotifications=false

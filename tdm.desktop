@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=The Dark Mod
+Terminal=false
+Type=Application
+Exec=/home/fanatyk/.local/share/darkmod/thedarkmod.x64
+Icon=/home/fanatyk/.local/app/appicons/tdmicon.jpg
+StartupNotify=true
+Categories=Game;
+Keywords=stealh; games; thief;
+NoDisplay=false
+X-GNOME-UsesNotifications=false

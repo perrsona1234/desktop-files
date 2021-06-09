@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Protontricks
+Comment=A simple wrapper that does winetricks things for Proton enabled games, requires Winetricks.
+Icon=/home/fanatyk/.local/app/appicons/protontricks.png
+Exec=protontricks --gui
+Categories=Game;
+NoDisplay=false
+Terminal=false
+X-GNOME-UsesNotifications=true

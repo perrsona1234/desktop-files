@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Tlp-UI
+Categories=GTK;System;
+Comment=A GTK user interface for TLP written in Python
+Icon=battery
+NoDisplay=false
+Exec=python3 -m tlpui
+Path=/home/fanatyk/.local/bin/TLPUI/
+Terminal=false
+X-GNOME-UsesNotifications=false

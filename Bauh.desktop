@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Bauh
+Terminal=false
+Type=Application
+Exec=bauh
+Icon=/home/fanatyk/.local/app/appicons/bauh.svg
+StartupNotify=true
+Categories=System;
+Keywords=bauh; flatpak; snap; appimage; web; webapp;

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=scrcpy
+Terminal=false
+Type=Application
+Exec=scrcpy --turn-screen-off
+Icon=/home/fanatyk/.local/app/appicons/scrcpy.png
+StartupNotify=true
+Categories=Utility;
+Keywords=android; adb; screen; control;

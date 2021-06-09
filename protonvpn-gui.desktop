@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=ProtonVPN
+GenericName=ProtonVPN GUI
+Exec=protonvpn-tray
+Icon=/usr/lib/python3.6/site-packages/linux_gui/resources/img/logo/protonvpn_sign_green.png
+Type=Application
+Terminal=False
+Categories=Network;
