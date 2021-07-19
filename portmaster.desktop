@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Portmaster
+Comment=Portmaster is a free and open-source application that puts you back in charge over all your computer's network connections.
+Icon=security-high
+Exec=/var/lib/portmaster/portmaster-start app
+Terminal=false
+X-GNOME-UsesNotifications=false
+Categories=System;
