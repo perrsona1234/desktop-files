@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=fheroes2
+Comment=Free Heroes of Might and Magic II (fheroes2) is a recreation of HoMM2 game engine.
+Icon=/home/fanatyk/.local/app/appicons/gfw_high.ico
+Exec=/home/fanatyk/.local/bin/fheroes2/fheroes2
+Terminal=false
+NoDisplay=false
+X-GNOME-UsesNotifications=false
+Categories=Game;
